@@ -1,0 +1,10 @@
+elasticsearch:
+  address: 47.99.136.163:9200
+  username: elastic
+  password: a04130812.
+  schema: http
+  connectTimeout: 5000
+  socketTimeout: 5000
+  connectionRequestTimeout: 5000
+  maxConnectNum: 100
+  maxConnectPerRoute: 100
